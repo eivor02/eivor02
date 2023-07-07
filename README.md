@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate Software Engineer from Morocco</h3>
 
 <p align="left"> <a href="https://twitter.com/saifbl02" target="blank"><img src="https://img.shields.io/twitter/follow/saifbl02?logo=twitter&style=for-the-badge" alt="saifbl02" /></a> </p>
 
